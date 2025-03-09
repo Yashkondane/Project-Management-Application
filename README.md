@@ -1,11 +1,11 @@
-## Project Management Tool
+# Project Management Tool
 
 
 A comprehensive web-based project management application built with React, TypeScript, and Tailwind CSS. This tool helps teams organize tasks, track progress, and collaborate efficiently.
 
 
 
-# **Key Features**
+## **Key Features**
 
 1) **Interactive Dashboard**: Visual overview of all projects with progress tracking and priority indicators
 2) **Task Management**: Create, assign, and track tasks with due dates, priorities, and dependencies
@@ -16,7 +16,7 @@ A comprehensive web-based project management application built with React, TypeS
 
 
 
-# **Technology Stack**
+## **Technology Stack**
 
 1) React with TypeScript
 2) React Router for navigation
