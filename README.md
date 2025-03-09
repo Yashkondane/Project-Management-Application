@@ -7,12 +7,12 @@ A comprehensive web-based project management application built with React, TypeS
 
 **Key Features**
 
-**Interactive Dashboard**: Visual overview of all projects with progress tracking and priority indicators
-**Task Management**: Create, assign, and track tasks with due dates, priorities, and dependencies
-**Time Tracking**: Built-in time recording for tasks with detailed logs and reporting
-**Team Collaboration**: Comment system and notification center for team communication
-**Activity Logging**: Comprehensive history of all project activities
-**Calendar View**: Schedule visualization and deadline management
+1) **Interactive Dashboard**: Visual overview of all projects with progress tracking and priority indicators
+2) **Task Management**: Create, assign, and track tasks with due dates, priorities, and dependencies
+3) **Time Tracking**: Built-in time recording for tasks with detailed logs and reporting
+4) **Team Collaboration**: Comment system and notification center for team communication
+5) **Activity Logging**: Comprehensive history of all project activities
+6) **Calendar View**: Schedule visualization and deadline management
 
 
 
