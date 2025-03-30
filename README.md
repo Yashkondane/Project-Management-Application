@@ -30,5 +30,6 @@ A comprehensive web-based project management application built with React, TypeS
 
 This project offers a modern, responsive interface designed to streamline project workflows and enhance team productivity.
 
-[Uploading Yash Kondane_Certificate.pdf…]()
 
+
+[Yash Kondane_Certificate.pdf](https://github.com/user-attachments/files/19527328/Yash.Kondane_Certificate.pdf)
