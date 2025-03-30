@@ -24,7 +24,7 @@ A comprehensive web-based project management application built with React, TypeS
 4) Shadcn/UI component library
 5) React Query for data fetching
 6) Recharts for data visualization
-7) xSupabase integration for authentication and database (configurable)
+7) 
 
 
 This project offers a modern, responsive interface designed to streamline project workflows and enhance team productivity.
